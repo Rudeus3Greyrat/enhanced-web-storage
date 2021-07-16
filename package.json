@@ -1,0 +1,19 @@
+{
+  "name": "enhanced-web-storage",
+  "version": "1.0.0",
+  "description": "A enhanced web storage with env support, expire time control, change callback and LRU storage clear strategy.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rudeus3Greyrat/enhanced-web-storage.git"
+  },
+  "author": "Rudeus3Greyrat",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Rudeus3Greyrat/enhanced-web-storage/issues"
+  },
+  "homepage": "https://github.com/Rudeus3Greyrat/enhanced-web-storage#readme"
+}
